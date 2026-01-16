@@ -1,0 +1,11 @@
+📊 Data Handling
+
+Data handling in Python is the process of storing, accessing, processing, and managing data efficiently to ensure reliability and persistence.
+
+Types of Data Handling
+
+File Handling – Used to read, write, and manage data stored in files
+
+Exception Handling – Used to handle runtime errors and maintain smooth program execution
+
+Serialization – Used to store and retrieve Python objects permanently using formats like Pickle and JSON
